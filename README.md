@@ -455,6 +455,6 @@ This project demonstrates how an MDP can be used to model a practical parking ma
 
 ## Author
 
-**Name:** Mageshwaran T.A
+**Name:** Jeevan Vishal.G.D
 
-**Register Number:** 212224230146
+**Register Number:** 212224240062
